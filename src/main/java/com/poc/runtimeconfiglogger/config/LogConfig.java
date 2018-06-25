@@ -1,4 +1,4 @@
-package com.digitaslbi.f1.runtimeconfiglogger.config;
+package com.poc.runtimeconfiglogger.config;
 
 
 import org.springframework.beans.factory.annotation.Value;

@@ -1,4 +1,4 @@
-package com.digitaslbi.f1.runtimeconfiglogger;
+package com.poc.runtimeconfiglogger;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

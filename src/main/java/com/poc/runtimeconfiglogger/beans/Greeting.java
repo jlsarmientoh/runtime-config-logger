@@ -1,4 +1,4 @@
-package com.digitaslbi.f1.runtimeconfiglogger.beans;
+package com.poc.runtimeconfiglogger.beans;
 
 
 public class Greeting {

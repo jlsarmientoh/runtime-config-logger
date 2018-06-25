@@ -1,6 +1,6 @@
-package com.digitaslbi.f1.runtimeconfiglogger;
+package com.poc.runtimeconfiglogger;
 
-import com.digitaslbi.f1.runtimeconfiglogger.config.LogConfig;
+import com.poc.runtimeconfiglogger.config.LogConfig;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

@@ -1,6 +1,6 @@
-package com.digitaslbi.f1.runtimeconfiglogger.controller;
+package com.poc.runtimeconfiglogger.controller;
 
-import com.digitaslbi.f1.runtimeconfiglogger.beans.Greeting;
+import com.poc.runtimeconfiglogger.beans.Greeting;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
